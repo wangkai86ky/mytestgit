@@ -1,4 +1,2 @@
 远程建立文档
-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
-2、token：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
-3、验证：git remote set-url origin https://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@github.com/wangkai86ky/MyTest.git
+1、初始化git init
