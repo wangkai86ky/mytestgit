@@ -1,0 +1,7 @@
+远程建立文档
+1、初始化git init
+2、token：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
+3、验证：git remote set-url origin https://ghp_sMLrWhLD7xSOixJMCIMTN
+892beAyX424wxM0@github.com/wangkai86ky/MyTest.git
+4、测试2
+5、通过ideal push
